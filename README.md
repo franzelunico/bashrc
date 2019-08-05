@@ -9,3 +9,7 @@ $ ln -s $PWD/zer0prompt ~/.zer0prompt
 $ ln -s $PWD/dircolors ~/.dircolors
 $ ln -s $PWD/bashrc ~/.bashrc
 ```
+
+#### Imagenes
+
+![](./imagenes/terminal.png)
